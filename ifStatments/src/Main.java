@@ -35,15 +35,15 @@ public class Main {
 		//write an if statement that prints out "When it becomes apparent."  if the input was greater than or equal to 8
 
          if (myInt >= 8) {
-        System.out.println("When it becomes apparent");
+        System.out.println("When it becomes apparent.");
     }
 		//write an if statement that prints out "I used to hate facial hair," if the input is less than or equal to 12
         if (myInt <= 12) {
-            System.out.println("I used to hate facial hair");
+            System.out.println("I used to hate facial hair,");
         }
 		//write an if statement that prints out " but then it grew on me."  if the input does not equal 23
         if (myInt != 23) {
-            System.out.println("but then it grew on me");
+            System.out.println("but then it grew on me.");
         }
 	}
 
